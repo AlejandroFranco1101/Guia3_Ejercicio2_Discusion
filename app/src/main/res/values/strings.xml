@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Guia3_Ejercicio2_Discusion</string>
+    <string name="form_title">Información personal</string>
+    <string name="hint_nombres">Nombres</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_telefono">Teléfono celular</string>
+    <string name="hint_edad">Edad</string>
+    <string name="btn_validar">Validar información</string>
+    <string name="summary_empty">Complete el formulario y presione Validar información.</string>
 </resources>
